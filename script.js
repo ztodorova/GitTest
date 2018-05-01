@@ -10,3 +10,4 @@ a['key']= 'value';
 
 console.log(a['key']);
 console.log(b[0]);
+var c=9;
