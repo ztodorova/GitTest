@@ -13,3 +13,4 @@ console.log(b[0]);
 
 var d=7;
 console.log(d);
+var c=9;
